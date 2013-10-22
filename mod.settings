@@ -1,0 +1,8 @@
+name        = "Alien Phase Gate Use"
+source_dir  = "mod"
+output_dir  = "mod"
+description = [=[Allows aliens in Natural Selection 2 to use marine phase gates.
+
+Repository: http://github.com/nathanielbaxter/AlienPhaseGateUse]=]
+image       = "preview.jpg"
+publish_id = "b34d3c4"
