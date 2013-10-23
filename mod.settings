@@ -3,6 +3,8 @@ source_dir  = "mod"
 output_dir  = "mod"
 description = [=[Allows aliens in Natural Selection 2 to use marine phase gates.
 
+Note that onos are too large to fit through gates!
+
 Repository: http://github.com/nathanielbaxter/AlienPhaseGateUse]=]
 image       = "preview.jpg"
 publish_id = "b352292"

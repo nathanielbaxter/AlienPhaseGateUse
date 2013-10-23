@@ -4,11 +4,12 @@ AlienPhaseGateUse
 * Description:
 Allows aliens in Natural Selection 2 to use marine phase gates.
 
+Note that onos are too large to fit through gates!
 
 * References:
 
 Workshop: http://steamcommunity.com/sharedfiles/filedetails/?id=188031634
-Repository: http://github.com/nathanielbaxter/AlienPhaseGateUse
+Rpository: http://github.com/nathanielbaxter/AlienPhaseGateUse
 
 
 * Source code usage:
